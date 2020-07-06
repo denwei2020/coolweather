@@ -37,19 +37,20 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-
                     android:textColor="#fff"
-                    android:textSize="40sp"/>
+                    android:textSize="40sp"
+                    />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
-                    android:text="AQI的指数"
+                    android:text="AQI指数"
                     android:textColor="#fff"/>
-            </LinearLayout>
-        </RelativeLayout>
 
+            </LinearLayout>
+
+        </RelativeLayout>
 
         <RelativeLayout
             android:layout_width="0dp"
